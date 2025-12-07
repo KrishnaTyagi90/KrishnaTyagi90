@@ -6,7 +6,7 @@
 - 🚀 Looking for opportunities where I can **learn**, **adapt to evolving industry trends**,  
   and build **impactful, scalable solutions**  
 - 📍 Based in India  
-- 📫 Reach me: `krishnatyagi37@gmail.com` | [LinkedIn](www.linkedin.com/in/krishna-tyagi-6a0b86252)
+- 📫 Reach me: `krishnatyagi37@gmail.com` | [LinkedIn](https://www.linkedin.com/in/krishna-tyagi-6a0b86252/)
 
 ---
 
