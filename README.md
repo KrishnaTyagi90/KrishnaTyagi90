@@ -1,16 +1,3 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Krishna+👋;Software+Developer+%7C+Data+Enthusiast;Always+learning+new+tech+and+tools" alt="Typing Animation" />
-</p>
-
-<!-- Uncomment this ONLY if banner uploaded -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaTyagi90/KrishnaTyagi90/main/assets/banner.png" alt="Banner" />
-</p>
--->
-
-
 ---
 
 ## 🧑‍💻 About Me
