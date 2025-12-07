@@ -58,14 +58,4 @@
 
 ---
 
-## 📌 Projects
 
-> Here are a few projects I’ve been working on:
-
-- 🛒 **Online Clothing Store (MERN Stack)** – Full-stack e-commerce web app with shopping cart, payment gateway, authentication, and dynamic product sections.  
-- 📊 **Data Analysis & Visualization Notebooks** – Exploratory data analysis using **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.  
-- 🌐 Add more of your highlighted projects here with links 👇  
-
-```bash
-[Project Name](https://github.com/your-username/your-project)
-Short one-line description of what this project does.
